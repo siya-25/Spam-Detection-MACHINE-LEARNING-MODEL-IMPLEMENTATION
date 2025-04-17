@@ -114,4 +114,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Dataset: SMS Spam Collection Dataset from UCI Machine Learning Repository
 - Scikit-learn for machine learning algorithms
-- Matplotlib and Seaborn for visualizations 
+- Matplotlib and Seaborn for visualizations
+
+MACHINE LEARNING MODEL IMPLEMENTATION
+
+*COMPANY* : CODTECH IT SOLUTIONS 
+
+*NAME* : SIYA PAGAR
+
+*INTERN ID* : CT04WN39
+
+*DOMAIN* : PYTHON PROGRAMMING 
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTOSH
