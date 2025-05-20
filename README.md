@@ -110,22 +110,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
 
-- Dataset: SMS Spam Collection Dataset from UCI Machine Learning Repository
-- Scikit-learn for machine learning algorithms
-- Matplotlib and Seaborn for visualizations
-
-MACHINE LEARNING MODEL IMPLEMENTATION
-
-*COMPANY* : CODTECH IT SOLUTIONS 
-
-*NAME* : SIYA PAGAR
-
-*INTERN ID* : CT04WN39
-
-*DOMAIN* : PYTHON PROGRAMMING 
-
-*DURATION* : 4 WEEKS
-
-*MENTOR* : NEELA SANTOSH
